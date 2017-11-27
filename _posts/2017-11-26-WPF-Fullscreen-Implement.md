@@ -5,7 +5,6 @@ date:       2017-11-26
 summary:    WPF全屏实现，WPF fullscreen implement
 categories: jekyll pixyll
 ---
-
 # WPF的程序的全屏实现
 
 这个功能看起来是如此的简单，一般常规来说只要三局xaml代码即可。
@@ -133,15 +132,7 @@ if (Win32.GetForegroundWindow() != handle)//判断当前为非前置窗口时才
 }
 ```
 
-
-
 ### 额外话题
 
 1. [如果只想全屏后保持任务栏（没有测试过）](https://www.codeproject.com/articles/107994/taskbar-with-window-maximized-and-windowstate-to-n)
 2. [分辨率改变后全屏窗口显示异常（没有测试过）](https://blog.onedevjob.com/2010/10/19/fixing-full-screen-wpf-windows/)
-
-
-
-
-
-### 
