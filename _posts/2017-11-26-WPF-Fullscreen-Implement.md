@@ -5,7 +5,6 @@ date:       2017-11-26
 summary:    WPF全屏实现，WPF fullscreen implement
 categories: jekyll pixyll
 ---
-# WPF的程序的全屏实现
 
 这个功能看起来是如此的简单，一般常规来说只要三局xaml代码即可。
 
