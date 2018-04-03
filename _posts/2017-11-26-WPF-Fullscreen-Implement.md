@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      WPF的程序的全屏实现
+title:      WPF程序的全屏实现
 date:       2017-11-26
 summary:    WPF全屏实现，WPF fullscreen implement
 categories: jekyll pixyll
